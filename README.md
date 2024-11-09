@@ -1,2 +1,2 @@
 # Neural-network-class
-About my different notebooks made in Neural networks class. UNAM
+About my different notebooks made in Neural networks class.
